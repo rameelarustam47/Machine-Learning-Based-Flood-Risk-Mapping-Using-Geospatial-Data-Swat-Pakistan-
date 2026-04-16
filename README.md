@@ -1,5 +1,5 @@
 
-# 🌍 Machine Learning-Based Flood Risk Mapping Using Geospatial Data (Swat, Pakistan)
+🌊 Flood Risk Mapping using Regression SVM Gradient Boosting
 
 ## 📌 Overview
 This project applies machine learning techniques to predict flood-prone areas in Swat, Khyber Pakhtunkhwa, Pakistan using satellite-derived geospatial data.
